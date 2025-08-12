@@ -1,4 +1,92 @@
-Here is the full list of all `<option>` values and their corresponding names from the `<select>` element:
+# Father's Occupation List
+
+| Value | Occupation                         |
+| ----- | ---------------------------------- |
+| -1    | -- Select --                       |
+| 0     | Any Other                          |
+| 1     | Businessman                        |
+| 2     | Government Servant / Civil Servant |
+| 3     | Private Service                    |
+| 4     | Retired                            |
+| 5     | Imam                               |
+| 6     | Shopkeeper                         |
+| 7     | Factory Worker                     |
+| 8     | Doctor                             |
+| 9     | Engineer                           |
+| 10    | Librarian                          |
+| 11    | Deceased                           |
+| 12    | Laborer                            |
+| 13    | Mason                              |
+| 14    | Plumber                            |
+| 15    | Miller                             |
+| 16    | Embroider                          |
+| 17    | Property Dealer                    |
+| 18    | Milk Man                           |
+| 19    | Security Guard                     |
+| 20    | Lawyer                             |
+| 21    | Police Personnel                   |
+| 22    | Army Personnel                     |
+| 23    | Carpenter                          |
+| 24    | Judge                              |
+| 25    | Radiologist                        |
+| 26    | Air Hostess / Flight Attendant     |
+| 27    | Teacher / Lecturer / Professor     |
+| 28    | Politician                         |
+| 29    | Calligrapher                       |
+| 30    | Overseas Worker                    |
+| 31    | Farmer                             |
+| 32    | Mechanic                           |
+| 33    | Waiter                             |
+| 34    | Delivery Person                    |
+| 35    | Lab Attendant / Technician         |
+| 36    | Driver                             |
+| 37    | Baker                              |
+| 38    | Electrician                        |
+| 39    | Pilot                              |
+| 40    | Jeweler                            |
+| 41    | Salesperson                        |
+| 42    | Scientist                          |
+| 43    | Gardner / Mali                     |
+| 44    | Architect                          |
+| 45    | IT Professional                    |
+| 46    | Manager / Executive                |
+| 47    | Banker                             |
+| 48    | Pharmacist                         |
+| 49    | Journalist                         |
+| 50    | Artist                             |
+| 51    | Nurse / Midwife                    |
+| 52    | Veterinarian                       |
+| 53    | Photographer                       |
+| 54    | Social Worker                      |
+| 55    | Chef / Cook                        |
+| 56    | Tailor / Dressmaker                |
+| 57    | Barber / Hairdresser               |
+| 58    | Sanitory Worker                    |
+| 59    | Miner                              |
+| 60    | Painter / Decorator                |
+| 61    | Welder                             |
+| 62    | Fisherman                          |
+| 63    | Psychologist / Counselor           |
+| 64    | Tutor / Home Teacher               |
+| 65    | Housemaid / Domestic Worker        |
+| 66    | Postman                            |
+| 67    | Receptionist                       |
+| 68    | Paramedic                          |
+| 69    | Clerk / Office Assistant           |
+| 70    | Data Entry Operator                |
+| 71    | Call Center Agent                  |
+| 72    | Athlete / Sports Coach             |
+| 73    | Researcher                         |
+| 74    | Cleaner / Janitor                  |
+| 75    | Tour Guide                         |
+| 76    | Conductor                          |
+| 77    | Cashier                            |
+| 78    | Butcher                            |
+| 79    | Accountant                         |
+
+
+# School and University List
+
 
 | Value          | Name                                                                        |
 | -------------- | --------------------------------------------------------------------------- |
@@ -271,7 +359,7 @@ Here is the full list of all `<option>` values and their corresponding names fro
 
 
 
-Here are all the values and their corresponding names from your `<select>` element for divisions:
+# Grade List
 
 | Value | Name                      |
 | ----- | ------------------------- |
