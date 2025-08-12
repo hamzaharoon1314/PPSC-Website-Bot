@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Adds button to auto-fill PPSC Personal Info form on click
-// @match        https://www.ppsc.gop.pk/*
+// @match        https://www.ppsc.gop.pk/*/UsersReg/PersonalInfo.aspx
 // @grant        none
 // @author       Hamza Haroon
 // @contact      botme@hamo.dev
@@ -88,3 +88,4 @@
     });
 
 })();
+
