@@ -10,11 +10,11 @@ Click the **Install** button next to each script to install it via Tampermonkey 
 
 | Script Name                  | Description                          | Install |
 |-----------------------------|------------------------------------|---------|
-| 0-PPSC-Planner.js            | Automates tasks on the PPSC Planner page. | [![Install](https://img.shields.io/badge/Install-0--PPSC--Planner.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/0-PPSC-Planner.js) |
-| 1-PPSC-CNIC.js               | Auto-fills CNIC-related fields.    | [![Install](https://img.shields.io/badge/Install-1--PPSC--CNIC.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/1-PPSC-CNIC.js) |
-| 2-PPSC-Personal-Information.js | Fills in personal information forms. | [![Install](https://img.shields.io/badge/Install-2--PPSC--Personal--Information.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/2-PPSC-Personal-Information.js) |
-| 3-PPSC-Education.js          | Auto-fills education details.      | [![Install](https://img.shields.io/badge/Install-3--PPSC--Education.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/3-PPSC-Education.js) |
-| 4-PPSC-Employment.js         | Auto-fills employment records.     | [![Install](https://img.shields.io/badge/Install-4--PPSC--Employment.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/4-PPSC-Employment.js) |
+| 0-PPSC-Planner.js            | Automates tasks on the PPSC Planner page. | [![Install](https://img.shields.io/badge/Install-0--PPSC--Planner.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/0-PPSC-Planner.user.js) |
+| 1-PPSC-CNIC.js               | Auto-fills CNIC-related fields.    | [![Install](https://img.shields.io/badge/Install-1--PPSC--CNIC.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/1-PPSC-CNIC.user.js) |
+| 2-PPSC-Personal-Information.js | Fills in personal information forms. | [![Install](https://img.shields.io/badge/Install-2--PPSC--Personal--Information.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/2-PPSC-Personal-Information.user.js) |
+| 3-PPSC-Education.js          | Auto-fills education details.      | [![Install](https://img.shields.io/badge/Install-3--PPSC--Education.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/3-PPSC-Education.user.js) |
+| 4-PPSC-Employment.js         | Auto-fills employment records.     | [![Install](https://img.shields.io/badge/Install-4--PPSC--Employment.js-brightgreen)](https://github.com/hamzaharoon1314/PPSC-Website-Bot/raw/main/4-PPSC-Employment.user.js) |
 
 ---
 
