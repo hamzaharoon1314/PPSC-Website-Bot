@@ -1,6 +1,6 @@
 # PPSC Website Bot
 
-A collection of userscripts designed to automate and assist with filling forms and navigating the PPSC (Punjab Public Service Commission) website.
+A collection of scripts designed to automate and assist with filling Application forms and navigating the PPSC (Punjab Public Service Commission) website.
 
 ---
 
