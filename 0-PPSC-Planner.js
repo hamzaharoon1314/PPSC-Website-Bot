@@ -6,8 +6,8 @@
 // @match        https://www.ppsc.gop.pk/*/planner/showdata.aspx
 // @grant        none
 // @author       Hamza Haroon
-// @contact      botme@hamo.dev
-// @repository   https://github.com/hamzaharoon1314/PPSC-Website-Bot
+// @homepageURL  https://github.com/hamzaharoon1314/PPSC-Website-Bot
+// @run-at       document-end
 // ==/UserScript==
 
 (function () {
@@ -24,3 +24,4 @@
         }
     });
 })();
+
